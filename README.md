@@ -40,7 +40,7 @@ Improving Instant3D for multi-view consistent 3D generation.
 - 🎯 Match score, missing keywords, ATS issues, tailored summary
 - 🛠 Next.js 15 · TypeScript · Tailwind v4 · Groq · Zod
 - 🔒 Bring-your-own-key architecture — no server-side key storage
-- 🌐 [Live Demo](https://jobfit-ai.vercel.app) · 💻 [Source Code](https://github.com/manojkumar16122/JobFit)
+- 🌐 [Live Demo](https://jobfitai-nu.vercel.app/) · 💻 [Source Code](https://github.com/manojkumar16122/JobFit)
 
 ---
 
